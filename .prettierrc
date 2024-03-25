@@ -1,0 +1,7 @@
+{
+  "semi": true,
+  "printWidth": 400,
+  "eslintIntegration": true,
+  "singleQuote": true,
+  "trailingComma": "all"
+}
