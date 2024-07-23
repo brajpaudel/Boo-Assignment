@@ -7,8 +7,8 @@ const bodyParser = require('body-parser');
 const logger = require('morgan');
 const connectDb = require('./utlis/database');
 const routes = require('./routes/v1/index');
-// set the view engine to ejs
 
+// set the view engine to ejs
 app.set('view engine', 'ejs');
 
 connectDb();
